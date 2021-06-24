@@ -27,5 +27,6 @@ Phase 3: Ad-Hoc various analysis. NPS (Net Promoter Score) evaluation.
 	- Classification model (Python - xgboost)
 	- [[Customer Happinex Index]] to simulate the effect of the features on NPS (what happens to the NPS when I change the time for KYC).
 ### Results
- 
+ Increased the Activation Ratio to 44%. So many new users were coming that we had to stop the CLP Promotions. Too many users were coming in and we were giving problems to the KYC Operations and Customer Service teams. Really good relationship with customer and grew from DS to Senior DS in Lynx. Improved code skills and got to understand better xgboost #machine_learning and shap #machine_learning. Started to become the leader of the team and had to teach a lot to Richard (new DS). 
 ### Reflections
+Second round of proving myself that my worth is a lot higher than what I expected. Slightly disappointed by the level of other Data Scientist (even senior levels) in my company, maybe in general it is like this. Lot's to improve on the Python coding, and learning from Heiko (ING side) to keep things in order and don't over complicate things. Important skill to break down complex analysis into simple steps. 
