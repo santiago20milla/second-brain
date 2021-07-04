@@ -1,4 +1,4 @@
-# DBS - Queuing project
+# DBS - Queue Estimation
 Consulting project done in [[Lynx Analytics]] from October 2018 to February 2019.
 ## Glossary
  - T1: Time to enter queue
@@ -18,7 +18,7 @@ Find a way to estimate the presence of queues in the ATMs. Based on .txt files w
  - Manually clean the survey results and match the survey records with the cleaned transactions of the ATMs logs.
  - Find the optimal time between arrivals (time for a user to walk from the queue to the ATM and start a transaction) and use it to combine the usage into usage chains.
  - Use the T1 (time to enter the queue) to determine the statistical parameters of the queue (make sure the queue follows a standard MM1 parameters) #queueing_theory.
- - Build a [[queue simulator]] using python and simulate thousands data points of similar queues.
+ - Build a [[Queue Simulator]] using python and simulate thousands data points of similar queues.
  - Calculate the Relative Waiting Time as the percentage of possible waiting time (maximum waiting time is when user arrives at exactly the same time as previous user, minimum waiting time is when user arrives at the time that the previous user finishes).
  - Determine the distribution of the Relative Waiting Time based on user's position in the queue chain and queue chain size (how many users went one after the other without a stop). 
 	 - Relative Waiting Time of users at the extremes of the queue chains follow a uniform distribution.
