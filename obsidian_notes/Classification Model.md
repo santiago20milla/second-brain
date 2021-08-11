@@ -16,4 +16,7 @@ Classification models which I'm familiar with:
 - True Positive Rate: True Positive / (True Positive + False Negative), used for the AU-ROC Curve
 - AU-ROC: Area Under the Receiver Operating Curve. Chart with the False Positive Rate as x-axis and True Positive Rate as y-axis and actual scores at different classification thresholds. 
 ## Packages & Code
-
+Python packages most commonly used:
+ - scikit learn: comprehensive package with multiple functions for machine learning. Includes [[Pre-Processing]], [[Feature Selection]],[[Model Training]], and [[Model Evaluation]] modules. Included in most problems.  https://scikit-learn.org/stable/modules/classes.html#module-sklearn.multiclass
+ - xgboost: package for gradient boosting algorithms. Very strong with [[Unbalanced Datasets]] because it includes some parameters to give extra weight to less frequent classes.  https://xgboost.readthedocs.io/en/latest/
+ - catboost: package for gradient boosting algorithms (similar to xgboost) but it allows categorical data without making it binary and therefore less likely to overfit. https://catboost.ai/

@@ -1,5 +1,5 @@
 # Lynx Analytics
-Singapore based consulting company focused on [[Graph Analytics]], with consulting projects, [[Cylynx]], [[Lynx Kite]] and [[Customer Happinex Index]].
+Singapore based consulting company focused on [[Graph Analytics]], with consulting projects, [[Cylynx]], [[LynxKite]] and [[Customer Happinex Index]].
 ## Projects worked on Lynx Analytics
 - [[DBS - Queue Estimation]] (Oct 2018 - Feb 2019)
 - [[ING - Campaign Optimization]] (Mar 2019 - Feb 2021)

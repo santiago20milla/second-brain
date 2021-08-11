@@ -1,5 +1,6 @@
 # ING - Campaign Optimization
-Consulting project done in [[Lynx Analytics]] from March 2020 to February 2021.
+Consulting project done in [[Lynx Analytics]] from March 2020 to February 2021. 
+#fintech #banking #campaign_optimization #machine_learning 
 ## Glossary
 - Activation Ratio: % of active users over total on-boarded users (with account).
 - KYC: Know Your Customer.
@@ -19,7 +20,7 @@ Phase 3: Ad-Hoc various analysis. NPS (Net Promoter Score) evaluation.
 	- [[Classification Model]] (Python - [[XG Boost]])
 	- Select the optimized users and randomly assign them to reward, no reward and no communication groups (SQL)
 	- Optimize the promotions to be sent to each group (Excel - Solver, Python) #statistics 
-	- Evaluate the performance of the promotions by comparing it to the control groups (SQL, Excel, Python)
+	- Evaluate the performance of the promotions by comparing it to the control groups (SQL, Excel, Python) and visually comparing how where the [[Vintages Graphs]] vs previous months. 
 	- Evaluate the performance comparing churn of promo takers vs controls (and natural takers) #statistics
 - Dashboards (SQL + Excel)
 - Ad-hoc analysis (greatest part of our time in the late project).
