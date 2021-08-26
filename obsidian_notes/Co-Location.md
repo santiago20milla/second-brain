@@ -1,0 +1,2 @@
+# Co-Location
+[[Graph Analytics]] algorithm which groups nodes according to their frequency within a specific area. For example, grouping cellphone numbers into households based on their usage coordinates and phone calls (edges).

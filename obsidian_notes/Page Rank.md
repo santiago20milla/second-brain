@@ -1,0 +1,2 @@
+# Page Rank
+[[Graph Analytics]] algorithm that ranks the nodes according to the likelihood of a [[Random Walk]] going through that node. Useful to determine nodes importance. For example. airports having flights come in and out, some airport with not so many edges might have a high page rank because of being the center of connection between two regions (e.g. Dubai).

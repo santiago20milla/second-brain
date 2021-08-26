@@ -1,0 +1,2 @@
+# Content-based Filtering
+Approach of [[Recommendation Systems]] where the item's description is used to predict the preference that a user would have for it. It uses the historical preference of a user for items in the system. It has it's problems with [[Serendipity]], tending to recommend only the obvious.

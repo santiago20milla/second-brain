@@ -4,10 +4,12 @@ Branch of mathematics that deals with network analysis. Networks are formed by t
  - [[Page Rank]]
  - [[Graph Centrality]]
  - [[Connected Components]]
- - [[Minimum Spamming Tree]]
+ - [[Minimum Spanning Tree]]
  - [[Graph Embeddedness]]
  - [[Graph Degree]]
- - [[Co-occurance]]
+ - [[Co-Location]]
+ - [[Random Walk]]
+ - [[Clique]]
 
 Among the easiest and most common usages there are:
 

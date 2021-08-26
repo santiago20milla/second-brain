@@ -1,0 +1,2 @@
+# Graph Embeddedness 
+[[Graph Analytics]] concept that describes how close are the neighbors of a vertex are to being a [[Clique]]. So, how many edges are missing within the neighbors of a specific vertex of being all connected to each other. 

@@ -17,7 +17,7 @@ Use the learnings from previous Microassortment  projects done by Lynx in China-
 - Create a [[Machine Learning]] model that predicts which clusters do stores belong to. Better if it's via a [[Regression Model]] that predicts one internal feature rather than a [[Classification Model]] that predicts cluster belonging.
 - Determine the final cluster for each store with and without POS data (new stores).
 - Create a [[Gross Margin]] estimation model via a [[Regression Model]] that considers [[Product Cannibalization]]. 
-- Build an [[Integer Linear Programming]] model that picks the best combination of placements for each store (the work-stream that I was in charge of).
+- Build an [[Integer Linear Programming]] model that picks the best combination of placements for each store (the work-stream that I was in charge of). Built a [[ILP Dummy Model]] to test all the constraints and to be able to iterate over the model in a faster way.
 ### Results
 Built a productionalizable system that would define the optimal set of placements per product per store considering all the business constraints. The most important ILP constraints where the [[Russian Doll Constraints]] and [[Flow Constraints]]. Both were managed by transforming the decision variables from month assorted to placement of x amount of months. The impact was measured to the estimated increase of last years' [[Gross Margin]] real vs estimated (running the assortment optimization on last year's data).
 ### Reflections

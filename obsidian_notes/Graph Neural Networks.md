@@ -1,0 +1,2 @@
+# Graph Neural Networks
+[[Graph Analytics]] algorithm that combines [[Neural Networks]] with graph structured data. Each node is considered to be a neural network with 'input' from its neighbor nodes and 'output' towards its neighbors nodes.
