@@ -1,5 +1,19 @@
 # ILP Dummy Model
 #operations_research #python
+
+Optimization module that takes predicted sales of products within a list of stores and chooses the combination of products that maximizes sales.
+
+Inputs:
+ * stores: list of stores to be assorted
+ * months: list of months to be assorted
+ * placements: group of months to have the product assorted, composed of the placement month (month where a product is stocked up) and duration (months keeping the assorted product).
+ * corresponding months: assignation of assorted months to placements
+ * pc9: product code
+ * pc5: product group code
+ * product hierarchy: hierarchy of products and product parents
+ * store hierarchy: hierarchy of stores and store parents
+ * pc9 contribution: sales prediction of specific pc9 on specific store on specifi monh
+
 ```
 import pandas as pd
 import numpy as np
